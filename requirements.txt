@@ -1,5 +1,4 @@
 numpy==1.26.0
-pip install setuptools
 pip install --upgrade pip
 pickle-mixin==1.0.2
 streamlit==1.2.0
